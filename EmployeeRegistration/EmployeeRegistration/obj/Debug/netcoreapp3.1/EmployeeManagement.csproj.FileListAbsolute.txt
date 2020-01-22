@@ -1,0 +1,11 @@
+D:\Visual Studio 2019\EmployeeRegistration\EmployeeRegistration\bin\Debug\netcoreapp3.1\EmployeeManagement.exe
+D:\Visual Studio 2019\EmployeeRegistration\EmployeeRegistration\bin\Debug\netcoreapp3.1\EmployeeManagement.deps.json
+D:\Visual Studio 2019\EmployeeRegistration\EmployeeRegistration\bin\Debug\netcoreapp3.1\EmployeeManagement.runtimeconfig.json
+D:\Visual Studio 2019\EmployeeRegistration\EmployeeRegistration\bin\Debug\netcoreapp3.1\EmployeeManagement.runtimeconfig.dev.json
+D:\Visual Studio 2019\EmployeeRegistration\EmployeeRegistration\bin\Debug\netcoreapp3.1\EmployeeManagement.dll
+D:\Visual Studio 2019\EmployeeRegistration\EmployeeRegistration\bin\Debug\netcoreapp3.1\EmployeeManagement.pdb
+D:\Visual Studio 2019\EmployeeRegistration\EmployeeRegistration\obj\Debug\netcoreapp3.1\EmployeeManagement.csprojAssemblyReference.cache
+D:\Visual Studio 2019\EmployeeRegistration\EmployeeRegistration\obj\Debug\netcoreapp3.1\EmployeeManagement.AssemblyInfoInputs.cache
+D:\Visual Studio 2019\EmployeeRegistration\EmployeeRegistration\obj\Debug\netcoreapp3.1\EmployeeManagement.AssemblyInfo.cs
+D:\Visual Studio 2019\EmployeeRegistration\EmployeeRegistration\obj\Debug\netcoreapp3.1\EmployeeManagement.dll
+D:\Visual Studio 2019\EmployeeRegistration\EmployeeRegistration\obj\Debug\netcoreapp3.1\EmployeeManagement.pdb

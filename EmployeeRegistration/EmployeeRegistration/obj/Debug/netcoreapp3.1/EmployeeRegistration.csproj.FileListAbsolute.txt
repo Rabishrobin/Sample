@@ -1,0 +1,11 @@
+D:\Visual Studio 2019\EmployeeRegistration\EmployeeRegistration\bin\Debug\netcoreapp3.1\EmployeeRegistration.exe
+D:\Visual Studio 2019\EmployeeRegistration\EmployeeRegistration\bin\Debug\netcoreapp3.1\EmployeeRegistration.deps.json
+D:\Visual Studio 2019\EmployeeRegistration\EmployeeRegistration\bin\Debug\netcoreapp3.1\EmployeeRegistration.runtimeconfig.json
+D:\Visual Studio 2019\EmployeeRegistration\EmployeeRegistration\bin\Debug\netcoreapp3.1\EmployeeRegistration.runtimeconfig.dev.json
+D:\Visual Studio 2019\EmployeeRegistration\EmployeeRegistration\bin\Debug\netcoreapp3.1\EmployeeRegistration.dll
+D:\Visual Studio 2019\EmployeeRegistration\EmployeeRegistration\bin\Debug\netcoreapp3.1\EmployeeRegistration.pdb
+D:\Visual Studio 2019\EmployeeRegistration\EmployeeRegistration\obj\Debug\netcoreapp3.1\EmployeeRegistration.csprojAssemblyReference.cache
+D:\Visual Studio 2019\EmployeeRegistration\EmployeeRegistration\obj\Debug\netcoreapp3.1\EmployeeRegistration.AssemblyInfoInputs.cache
+D:\Visual Studio 2019\EmployeeRegistration\EmployeeRegistration\obj\Debug\netcoreapp3.1\EmployeeRegistration.AssemblyInfo.cs
+D:\Visual Studio 2019\EmployeeRegistration\EmployeeRegistration\obj\Debug\netcoreapp3.1\EmployeeRegistration.dll
+D:\Visual Studio 2019\EmployeeRegistration\EmployeeRegistration\obj\Debug\netcoreapp3.1\EmployeeRegistration.pdb
